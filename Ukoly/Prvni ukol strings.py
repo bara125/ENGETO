@@ -1,0 +1,6 @@
+print("Prvnich 5 pismen")
+print("indexovani"[0:5])
+print("Poslednich 5 pismen")
+print("indexovani"[-5:])
+print("Kazde treti pismeno (pocinaje prvnim) od \"i\"")
+print("indexovani"[::3])
