@@ -1,2 +1,2 @@
 print("Zaciname gitovat")
-print("Projekt start")
+print(111 + 99)
