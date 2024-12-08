@@ -1,6 +1,0 @@
-jmeno = "Lukas"
-prijmeni = "Dvorak" 
-cele_jmeno = jmeno + prijmeni
-delka_jmena = 
-
-print
