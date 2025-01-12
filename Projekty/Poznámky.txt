@@ -1,0 +1,1 @@
+správně - if not len() NE if len() != 0 
