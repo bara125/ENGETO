@@ -12,15 +12,16 @@ while True:
     else:
         cislo_1 = int(input("Zadej prvni cislo:"))
         cislo_2 = int(input("Zadej druhe cislo:"))
+        vysledek = 0
         if operace == "+":
-                vysledek = cislo_1 + cislo_2
+            vysledek = cislo_1 + cislo_2
         elif operace == "-":
-                vysledek = cislo_1 - cislo_2
+            vysledek = cislo_1 - cislo_2
         print(cislo_1, operace, cislo_2, " = ", vysledek)
         pokracovani = input("Chcete provést další operaci?('a' pro ano, jakákoliv jiná klávesa pro ne):")
         if pokracovani != "a":
-              print("Ukoncuji kalkulacku")
-              break
+            print("Ukoncuji kalkulacku")
+            break
 
 # Dle operátoru proveď výpočet a vypiš ho - verze s f stringem
     #if operation == '+':
