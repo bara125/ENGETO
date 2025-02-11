@@ -31,5 +31,4 @@ while len(slova) != 3:
         print("Slovo není dlouhé čtyři znaky")
 
 # Jakmile má objekt uložené tři hodnoty, cyklus ukonči a vypiš oznámení
-else:
-    print("Už mám uložené tři slova.")
+print("Už mám uložené tři slova.")
