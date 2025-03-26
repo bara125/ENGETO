@@ -1,0 +1,7 @@
+ID,Jmeno,Status,Doba_behu,Chybova_hlaska
+1,LoginTest,OK,2.3,Neznama chyba
+2,RegistrationTest,Failed,4.1,ValidationError
+3,SearchTest,OK,1.2,Neznama chyba
+4,LogoutTest,Failed,3.5,Neznama chyba
+5,UploadTest,OK,2.0,Neznama chyba
+6,ProfileUpdateTest,Failed,3.7,Neznama chyba
