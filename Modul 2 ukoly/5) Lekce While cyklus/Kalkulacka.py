@@ -27,4 +27,6 @@ while True:
        # print(f'{number_1} + {number_2} = {number_1 + number_2}')
     #elif operation == '-':
         #print(f'{number_1} - {number_2} = {number_1 - number_2}')
-        #&iwlsejrliwjrlknwelkrn
+        #khrfkjsdhfkjhsd)
+        #osuhdrflshdjlfkjlskd
+        #owhdrofwjheoirjiepow
