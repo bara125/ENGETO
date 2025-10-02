@@ -22,9 +22,9 @@ while True:
         if pokracovani != "a":
             print("Ukoncuji kalkulacku")
             break
-
 # Dle operátoru proveď výpočet a vypiš ho - verze s f stringem
     #if operation == '+':
        # print(f'{number_1} + {number_2} = {number_1 + number_2}')
     #elif operation == '-':
         #print(f'{number_1} - {number_2} = {number_1 - number_2}')
+        #&iwlsejrliwjrlknwelkrn
